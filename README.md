@@ -1,2 +1,2 @@
 # Cplusplus-Learning
-record the learning process of C++
+Record the learning process of C++.
